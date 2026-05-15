@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1778763858681,
+      "tag": "0000_magenta_saracen",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1778767493787,
+      "tag": "0001_little_randall_flagg",
+      "breakpoints": true
+    }
+  ]
+}
